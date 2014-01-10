@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>03171039-DCB1-4562-84E3-FDD204BD64FC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PodPeople</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C199F6AF-1FC5-4BFF-AE72-BC08FD9E759A</key>
+		<string>ssh://github.com/travis/kl.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>pod-project/PodPeople/PodPeople.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C199F6AF-1FC5-4BFF-AE72-BC08FD9E759A</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/travis/kl.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C199F6AF-1FC5-4BFF-AE72-BC08FD9E759A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C199F6AF-1FC5-4BFF-AE72-BC08FD9E759A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>kl</string>
+		</dict>
+	</array>
+</dict>
+</plist>
