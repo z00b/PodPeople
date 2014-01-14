@@ -1,0 +1,5 @@
+core:
+  scheme: 'PodPeople'
+  workspace: 'PodPeople/PodPeople.xcworkspace'
+  signer: 'UTAH STREET LABS INC (GL92ZZ6423)'
+  profile: 'profiles/PodPeople_AdHoc.mobileprovision'
