@@ -4,7 +4,7 @@ pod 'Parse', '~> 1.2.18'
 post_install do |installer|
   installer.project.targets.each do |target|
     target.build_configurations.each do |configuration|
-      target.build_settings(configuration.name)['ARCHS'] = 'armv7 armv7s'
+      target.build_settings(configuration.name)['ARCHS'] = '$(ARCHS_STANDARD_32_BIT)'
     end
   end
 end
