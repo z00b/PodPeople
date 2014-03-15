@@ -429,6 +429,10 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 3B52C3B582E9425D9F984AFA /* Pods.xcconfig */;
 			buildSettings = {
+				ARCHS = (
+					amrv7,
+					armv7s,
+				);
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
@@ -443,6 +447,10 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 3B52C3B582E9425D9F984AFA /* Pods.xcconfig */;
 			buildSettings = {
+				ARCHS = (
+					amrv7,
+					armv7s,
+				);
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
