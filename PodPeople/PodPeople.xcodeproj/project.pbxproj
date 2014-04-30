@@ -178,7 +178,6 @@
 				1F8D107F187F78D3002CB3EE /* Frameworks */,
 				1F8D1080187F78D3002CB3EE /* Resources */,
 				99545212F7FC4C329E7A38C0 /* Copy Pods Resources */,
-				809CD5D819031FBE0051DFFA /* ruhroh.sh */,
 			);
 			buildRules = (
 			);
@@ -264,20 +263,6 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		809CD5D819031FBE0051DFFA /* ruhroh.sh */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = ruhroh.sh;
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "${SRCROOT}/stealstuff.sh";
-		};
 		99545212F7FC4C329E7A38C0 /* Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
