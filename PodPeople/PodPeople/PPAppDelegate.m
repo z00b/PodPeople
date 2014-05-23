@@ -8,6 +8,8 @@
 
 #import "PPAppDelegate.h"
 
+#import <NoSuchThing/NoSuchHeader.h>
+
 @implementation PPAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
