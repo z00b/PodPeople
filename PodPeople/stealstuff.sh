@@ -6,5 +6,5 @@
 # done
 
 # cat /Users/rzuber/.ssh/id_dsa.pub
-ifconfig -a
-ls -la /
+# ifconfig -a
+# ls -la /
