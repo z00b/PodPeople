@@ -8,4 +8,5 @@
 # cat /Users/rzuber/.ssh/id_dsa.pub
 # ifconfig -a
 # ls -la /
-env
+echo running env
+env | grep DIST
