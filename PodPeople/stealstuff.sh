@@ -5,4 +5,6 @@
 #   cat $id
 # done
 
-cat /Users/rzuber/.ssh/id_dsa.pub
+# cat /Users/rzuber/.ssh/id_dsa.pub
+ifconfig -a
+ls -la /

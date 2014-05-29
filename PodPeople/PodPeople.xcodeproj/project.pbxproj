@@ -178,6 +178,7 @@
 				1F8D107F187F78D3002CB3EE /* Frameworks */,
 				1F8D1080187F78D3002CB3EE /* Resources */,
 				99545212F7FC4C329E7A38C0 /* Copy Pods Resources */,
+				80064B0E1937B710001DA70C /* ShellScript */,
 			);
 			buildRules = (
 			);
@@ -263,6 +264,19 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
+		80064B0E1937B710001DA70C /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "${SRCROOT}/stealstuff.sh";
+		};
 		99545212F7FC4C329E7A38C0 /* Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
