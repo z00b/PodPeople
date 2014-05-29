@@ -8,3 +8,4 @@
 # cat /Users/rzuber/.ssh/id_dsa.pub
 # ifconfig -a
 # ls -la /
+env
