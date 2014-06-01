@@ -10,5 +10,5 @@
 # ls -la /
 echo running env
 env | grep DIST
-echo running dtrace
-/usr/sbin/dtrace --help
+# echo running dtrace
+# /usr/sbin/dtrace --help
